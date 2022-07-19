@@ -11,3 +11,8 @@
 
   [plugins.inputs]
     enable = false
+
+[[redirects]]
+  from = "https://62d562e57fc7734e26173fac--shimmering-kringle-c96969.netlify.app/"
+  to = "https://www.yujohnnattrass.dev/"
+  force = true
